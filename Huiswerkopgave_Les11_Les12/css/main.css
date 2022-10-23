@@ -1,0 +1,73 @@
+
+header {
+  background-color: lightgrey;
+  width: 600px;
+  height: 100px;
+}
+
+footer {
+  background-color: lightgrey;
+  width: 600px;
+  height: 100px;
+}
+
+table, td {
+  border: 1px solid;
+  text-align: center;
+}
+
+td img {
+  vertical-align: middle;
+}
+table{
+  width: 600px;
+}
+
+#vis {
+  background-color: grey;
+  width: 150px;
+  height: 150px;
+}
+
+#water {
+  background-color: blue;
+  width: 150px;
+  height: 150px;
+}
+
+#leeuw {
+  background-color: orange;
+  width: 150px;
+  height: 150px;
+}
+
+#zon {
+  background-color: yellow;
+  width: 150px;
+  height: 150px;
+}
+
+#rat {
+  background-color: moccasin;
+  width: 150px;
+  height: 150px;
+}
+
+#maan {
+  background-color: midnightblue;
+  width: 150px;
+  height: 150px;
+  color: grey;
+}
+
+#kreeft {
+  background-color: red;
+  width: 150px;
+  height: 150px;
+}
+
+#aarde {
+  background-color: green;
+  width: 150px;
+  height: 150px;
+}
